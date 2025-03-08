@@ -1,0 +1,6 @@
+{
+    "watch": ["src"],
+    "ext": ".ts, .js",
+    "exec": "ts-node ./src/index.ts",
+    "STRIPE_SECRET_KEY": "sk_test_51QxWcNFV9MoSGNBFp8a3sJgsGUaD3HTqsX3yUKQ0OrYdAx0XXGghcSiwUS8BoPqr4q3NhWOECYRMcRVHAomwpiUq00kDfAXQYE"
+}
